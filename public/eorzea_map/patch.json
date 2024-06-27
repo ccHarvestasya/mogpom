@@ -1,0 +1,27 @@
+[
+  {
+    "patch": 3,
+    "name": "Heavensward",
+    "nameJp": "蒼天"
+  },
+  {
+    "patch": 4,
+    "name": "Stormblood",
+    "nameJp": "紅蓮"
+  },
+  {
+    "patch": 5,
+    "name": "Shadowbringers",
+    "nameJp": "漆黒"
+  },
+  {
+    "patch": 6,
+    "name": "Endwalker",
+    "nameJp": "暁月"
+  },
+  {
+    "patch": 7,
+    "name": "Dawntrail",
+    "nameJp": "黄金"
+  }
+]

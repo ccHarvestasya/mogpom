@@ -1,0 +1,129 @@
+[
+  {
+    "patch": 3,
+    "id": 1,
+    "sizeX": 431,
+    "sizeY": 431,
+    "name": "Coerthas Western Highlands",
+    "nameJp": "クルザス西部高地"
+  },
+  {
+    "patch": 3,
+    "id": 2,
+    "sizeX": 431,
+    "sizeY": 431,
+    "name": "the Dravanian Forelands",
+    "nameJp": "高地ドラヴァニア"
+  },
+  {
+    "patch": 3,
+    "id": 3,
+    "sizeX": 431,
+    "sizeY": 431,
+    "name": "the Churning Mists",
+    "nameJp": "ドラヴァニア雲海"
+  },
+  {
+    "patch": 3,
+    "id": 4,
+    "sizeX": 431,
+    "sizeY": 431,
+    "name": "the Sea of Clouds",
+    "nameJp": "アバラシア雲海"
+  },
+  {
+    "patch": 4,
+    "id": 1,
+    "sizeX": 409,
+    "sizeY": 409,
+    "name": "the Fringes",
+    "nameJp": "ギラバニア辺境地帯"
+  },
+  {
+    "patch": 4,
+    "id": 2,
+    "sizeX": 409,
+    "sizeY": 409,
+    "name": "the Peaks",
+    "nameJp": "ギラバニア山岳地帯"
+  },
+  {
+    "patch": 4,
+    "id": 3,
+    "sizeX": 409,
+    "sizeY": 409,
+    "name": "the Lochs",
+    "nameJp": "ギラバニア湖畔地帯"
+  },
+  { "patch": 4, "id": 4, "sizeX": 409, "sizeY": 409, "name": "the Ruby Sea", "nameJp": "紅玉海" },
+  { "patch": 4, "id": 5, "sizeX": 409, "sizeY": 409, "name": "Yanxia", "nameJp": "ヤンサ" },
+  {
+    "patch": 4,
+    "id": 6,
+    "sizeX": 409,
+    "sizeY": 409,
+    "name": "the Azim Steppe",
+    "nameJp": "アジムステップ"
+  },
+  { "patch": 5, "id": 1, "sizeX": 409, "sizeY": 409, "name": "Lakeland", "nameJp": "レイクランド" },
+  { "patch": 5, "id": 2, "sizeX": 409, "sizeY": 409, "name": "Kholusia", "nameJp": "コルシア島" },
+  {
+    "patch": 5,
+    "id": 3,
+    "sizeX": 409,
+    "sizeY": 409,
+    "name": "Amh Araeng",
+    "nameJp": "アム・アレーン"
+  },
+  { "patch": 5, "id": 4, "sizeX": 409, "sizeY": 409, "name": "Il Mheg", "nameJp": "イル・メグ" },
+  {
+    "patch": 5,
+    "id": 5,
+    "sizeX": 409,
+    "sizeY": 409,
+    "name": "the Rak'Tika Greatwood",
+    "nameJp": "ラケティカ大森林"
+  },
+  {
+    "patch": 5,
+    "id": 6,
+    "sizeX": 409,
+    "sizeY": 409,
+    "name": "the Tempest",
+    "nameJp": "テンペスト"
+  },
+  {
+    "patch": 6,
+    "id": 1,
+    "sizeX": 409,
+    "sizeY": 409,
+    "name": "Labyrinthos",
+    "nameJp": "ラヴィリンソス"
+  },
+  {
+    "patch": 6,
+    "id": 2,
+    "sizeX": 409,
+    "sizeY": 409,
+    "name": "the Island of Thavnair",
+    "nameJp": "サベネア島"
+  },
+  { "patch": 6, "id": 3, "sizeX": 409, "sizeY": 409, "name": "Garlemald", "nameJp": "ガレマルド" },
+  {
+    "patch": 6,
+    "id": 4,
+    "sizeX": 409,
+    "sizeY": 409,
+    "name": "Mare Lamentorum",
+    "nameJp": "嘆きの海"
+  },
+  {
+    "patch": 6,
+    "id": 5,
+    "sizeX": 409,
+    "sizeY": 409,
+    "name": "Ultima Thule",
+    "nameJp": "ウルティマ・トゥーレ"
+  },
+  { "patch": 6, "id": 6, "sizeX": 409, "sizeY": 409, "name": "Elpis", "nameJp": "エルピス" }
+]

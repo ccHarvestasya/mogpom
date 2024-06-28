@@ -3,8 +3,9 @@ declare module '*/point.json' {
     patch: number;
     mapId: number;
     id: number;
-    sizeX: number;
-    sizeY: number;
+    type: string;
+    posX: number;
+    posY: number;
     name: string;
     nameJp: string;
   }

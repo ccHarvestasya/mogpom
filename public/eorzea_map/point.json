@@ -8,7 +8,7 @@
     "posY": 367,
     "posZ": 15,
     "weight": 0,
-    "name": "ファルコンネスト",
+    "name": "Falcon's Nest",
     "nameJp": "ファルコンネスト"
   },
   {
@@ -20,8 +20,8 @@
     "posY": 97,
     "posZ": 10,
     "weight": 0,
-    "name": "テイルフェザー→西部高地",
-    "nameJp": "テイルフェザー→西部高地"
+    "name": "Coerthas Western Highlands",
+    "nameJp": "クルザス西部高地"
   },
   {
     "patch": 3,
@@ -116,7 +116,7 @@
     "posY": 231,
     "posZ": 10,
     "weight": 0,
-    "name": "テイルフェザー",
+    "name": "Tailfeather",
     "nameJp": "テイルフェザー"
   },
   {
@@ -128,7 +128,7 @@
     "posY": 231,
     "posZ": 13,
     "weight": 0,
-    "name": "不浄の三塔",
+    "name": "Anyx Trine",
     "nameJp": "不浄の三塔"
   },
   {
@@ -248,7 +248,7 @@
     "posY": 344,
     "posZ": 3,
     "weight": 0,
-    "name": "モグモグホーム",
+    "name": "Moghome",
     "nameJp": "モグモグホーム"
   },
   {
@@ -260,7 +260,7 @@
     "posY": 288,
     "posZ": 12,
     "weight": 0,
-    "name": "白亜の宮殿",
+    "name": "Zenith",
     "nameJp": "白亜の宮殿"
   },
   {
@@ -380,8 +380,8 @@
     "posY": 334,
     "posZ": 11,
     "weight": 0,
-    "name": "キャンプ･クラウドトップ",
-    "nameJp": "キャンプ･クラウドトップ"
+    "name": "Camp Cloudtop",
+    "nameJp": "キャンプ・クラウドトップ"
   },
   {
     "patch": 3,
@@ -392,7 +392,7 @@
     "posY": 142,
     "posZ": 18,
     "weight": 0,
-    "name": "オク･ズンド",
+    "name": "Ok' Zundu",
     "nameJp": "オク･ズンド"
   },
   {
@@ -524,7 +524,7 @@
     "posY": 113,
     "posZ": 11,
     "weight": 15,
-    "name": "カストルム･オリエンス",
+    "name": "Castrum Oriens",
     "nameJp": "カストルム･オリエンス"
   },
   {
@@ -536,7 +536,7 @@
     "posY": 264,
     "posZ": 10,
     "weight": 15,
-    "name": "ピーリングストーンズ",
+    "name": "the Peering Stones",
     "nameJp": "ピーリングストーンズ"
   },
   {
@@ -548,7 +548,7 @@
     "posY": 108,
     "posZ": 4,
     "weight": 20,
-    "name": "ラールガーズリーチ",
+    "name": "Rhalgr's Reach",
     "nameJp": "ラールガーズリーチ"
   },
   {
@@ -656,7 +656,7 @@
     "posY": 65,
     "posZ": 7,
     "weight": 15,
-    "name": "アラガーナ",
+    "name": "Ala Gannha",
     "nameJp": "アラガーナ"
   },
   {
@@ -668,7 +668,7 @@
     "posY": 364,
     "posZ": 21,
     "weight": 15,
-    "name": "アラギリ",
+    "name": "Ala Ghiri",
     "nameJp": "アラギリ"
   },
   {
@@ -680,7 +680,7 @@
     "posY": 56,
     "posZ": 0,
     "weight": 20,
-    "name": "ラールガーズリーチ",
+    "name": "Rhalgr's Reach",
     "nameJp": "ラールガーズリーチ"
   },
   {
@@ -788,7 +788,7 @@
     "posY": 211,
     "posZ": 5,
     "weight": 15,
-    "name": "ポルタ･プレトリア",
+    "name": "Porta Praetoria",
     "nameJp": "ポルタ･プレトリア"
   },
   {
@@ -800,7 +800,7 @@
     "posY": 346,
     "posZ": 8,
     "weight": 15,
-    "name": "アラミガン･クォーター",
+    "name": "the Ala Mhigan Quarter",
     "nameJp": "アラミガン･クォーター"
   },
   {
@@ -908,7 +908,7 @@
     "posY": 161,
     "posZ": -12,
     "weight": 20,
-    "name": "碧のタマミズ",
+    "name": "Tamamizu",
     "nameJp": "碧のタマミズ"
   },
   {
@@ -920,7 +920,7 @@
     "posY": 97,
     "posZ": 0,
     "weight": 15,
-    "name": "オノコロ島",
+    "name": "Onokoro",
     "nameJp": "オノコロ島"
   },
   {
@@ -932,7 +932,7 @@
     "posY": 384,
     "posZ": 0,
     "weight": 20,
-    "name": "クガネ",
+    "name": "Kugane",
     "nameJp": "クガネ"
   },
   {
@@ -944,7 +944,7 @@
     "posY": 43,
     "posZ": 0,
     "weight": 20,
-    "name": "アジム(再開の市)",
+    "name": "Reunion",
     "nameJp": "アジム(再開の市)"
   },
   {
@@ -956,7 +956,7 @@
     "posY": 159,
     "posZ": 1,
     "weight": 25,
-    "name": "ヤンサ(ナマイ村)",
+    "name": "Namai",
     "nameJp": "ヤンサ(ナマイ村)"
   },
   {
@@ -1064,7 +1064,7 @@
     "posY": 196,
     "posZ": 7,
     "weight": 15,
-    "name": "ナマイ村",
+    "name": "Namai",
     "nameJp": "ナマイ村"
   },
   {
@@ -1076,7 +1076,7 @@
     "posY": 134,
     "posZ": 0,
     "weight": 15,
-    "name": "烈士庵",
+    "name": "the House Of the Fierce",
     "nameJp": "烈士庵"
   },
   {
@@ -1084,29 +1084,17 @@
     "mapId": 5,
     "id": 3,
     "type": "W",
-    "posX": 0,
-    "posY": 0,
+    "posX": 117,
+    "posY": 322,
     "posZ": 0,
-    "weight": 0,
-    "name": "中継点A",
-    "nameJp": "中継点A"
+    "weight": 20,
+    "name": "Doman Enclave",
+    "nameJp": "ドマ町人地"
   },
   {
     "patch": 4,
     "mapId": 5,
     "id": 4,
-    "type": "W",
-    "posX": 117,
-    "posY": 322,
-    "posZ": 0,
-    "weight": 20,
-    "name": "町人地",
-    "nameJp": "町人地"
-  },
-  {
-    "patch": 4,
-    "mapId": 5,
-    "id": 5,
     "type": "T",
     "posX": 310,
     "posY": 285,
@@ -1118,7 +1106,7 @@
   {
     "patch": 4,
     "mapId": 5,
-    "id": 6,
+    "id": 5,
     "type": "T",
     "posX": 132,
     "posY": 301,
@@ -1130,7 +1118,7 @@
   {
     "patch": 4,
     "mapId": 5,
-    "id": 7,
+    "id": 6,
     "type": "T",
     "posX": 318,
     "posY": 355,
@@ -1142,7 +1130,7 @@
   {
     "patch": 4,
     "mapId": 5,
-    "id": 8,
+    "id": 7,
     "type": "T",
     "posX": 222,
     "posY": 278,
@@ -1154,7 +1142,7 @@
   {
     "patch": 4,
     "mapId": 5,
-    "id": 9,
+    "id": 8,
     "type": "T",
     "posX": 320,
     "posY": 54,
@@ -1166,7 +1154,7 @@
   {
     "patch": 4,
     "mapId": 5,
-    "id": 10,
+    "id": 9,
     "type": "T",
     "posX": 200,
     "posY": 55,
@@ -1178,7 +1166,7 @@
   {
     "patch": 4,
     "mapId": 5,
-    "id": 11,
+    "id": 10,
     "type": "T",
     "posX": 218,
     "posY": 139,
@@ -1190,7 +1178,7 @@
   {
     "patch": 4,
     "mapId": 5,
-    "id": 12,
+    "id": 11,
     "type": "T",
     "posX": 120,
     "posY": 189,
@@ -1208,7 +1196,7 @@
     "posY": 283,
     "posZ": 3,
     "weight": 15,
-    "name": "再開の市",
+    "name": "Reunion",
     "nameJp": "再開の市"
   },
   {
@@ -1220,7 +1208,7 @@
     "posY": 221,
     "posZ": 11,
     "weight": 15,
-    "name": "明けの王座",
+    "name": "the Dawn Throne",
     "nameJp": "明けの王座"
   },
   {
@@ -1232,7 +1220,7 @@
     "posY": 238,
     "posZ": 12,
     "weight": 15,
-    "name": "ドーロ･イロー",
+    "name": "Dhoro Iloh",
     "nameJp": "ドーロ･イロー"
   },
   {
@@ -1340,7 +1328,7 @@
     "posY": 209,
     "posZ": 2,
     "weight": 15,
-    "name": "ジョッブ砦",
+    "name": "Fort Jobb",
     "nameJp": "ジョッブ砦"
   },
   {
@@ -1352,7 +1340,7 @@
     "posY": 168,
     "posZ": 5,
     "weight": 15,
-    "name": "オスタル厳命城",
+    "name": "the Ostall Imperative",
     "nameJp": "オスタル厳命城"
   },
   {
@@ -1364,7 +1352,7 @@
     "posY": 296,
     "posZ": 3,
     "weight": 25,
-    "name": "クリスタリウム",
+    "name": "the Crystarium",
     "nameJp": "クリスタリウム"
   },
   {
@@ -1472,7 +1460,7 @@
     "posY": 272,
     "posZ": 0,
     "weight": 20,
-    "name": "スティルタイド",
+    "name": "Stilltide",
     "nameJp": "スティルタイド"
   },
   {
@@ -1484,7 +1472,7 @@
     "posY": 292,
     "posZ": 0,
     "weight": 20,
-    "name": "ライト村",
+    "name": "Wright",
     "nameJp": "ライト村"
   },
   {
@@ -1496,7 +1484,7 @@
     "posY": 89,
     "posZ": 0,
     "weight": 15,
-    "name": "トメラの村",
+    "name": "Tomra",
     "nameJp": "トメラの村"
   },
   {
@@ -1604,7 +1592,7 @@
     "posY": 171,
     "posZ": 12,
     "weight": 15,
-    "name": "モルド・スーク",
+    "name": "Mord Souq",
     "nameJp": "モルド・スーク"
   },
   {
@@ -1616,7 +1604,7 @@
     "posY": 276,
     "posZ": 9,
     "weight": 15,
-    "name": "旅立ちの宿",
+    "name": "the Inn at Journey's Head",
     "nameJp": "旅立ちの宿"
   },
   {
@@ -1628,7 +1616,7 @@
     "posY": 172,
     "posZ": 16,
     "weight": 15,
-    "name": "トゥワイン",
+    "name": "Twine",
     "nameJp": "トゥワイン"
   },
   {
@@ -1736,7 +1724,7 @@
     "posY": 317,
     "posZ": 0,
     "weight": 15,
-    "name": "リダ・ラーン",
+    "name": "Lydha Lran",
     "nameJp": "リダ・ラーン"
   },
   {
@@ -1748,7 +1736,7 @@
     "posY": 43,
     "posZ": 0,
     "weight": 20,
-    "name": "プラ・エンニ茸窟",
+    "name": "Pla Enni",
     "nameJp": "プラ・エンニ茸窟"
   },
   {
@@ -1760,7 +1748,7 @@
     "posY": 77,
     "posZ": 0,
     "weight": 15,
-    "name": "ヴォレクドルフ",
+    "name": "Wolekdorf",
     "nameJp": "ヴォレクドルフ"
   },
   {
@@ -1868,7 +1856,7 @@
     "posY": 274,
     "posZ": 0,
     "weight": 15,
-    "name": "スリザーバウ",
+    "name": "Slitherbough",
     "nameJp": "スリザーバウ"
   },
   {
@@ -1880,7 +1868,7 @@
     "posY": 175,
     "posZ": 0,
     "weight": 15,
-    "name": "ファノヴの里",
+    "name": "Fanow",
     "nameJp": "ファノヴの里"
   },
   {
@@ -1988,7 +1976,7 @@
     "posY": 174,
     "posZ": -20,
     "weight": 15,
-    "name": "オンドの潮溜まり",
+    "name": "the Ondo Cups",
     "nameJp": "オンドの潮溜まり"
   },
   {
@@ -2000,7 +1988,7 @@
     "posY": 258,
     "posZ": -83,
     "weight": 35,
-    "name": "マカレンサス広場",
+    "name": "the Macarenses Angle",
     "nameJp": "マカレンサス広場"
   },
   {
@@ -2108,7 +2096,7 @@
     "posY": 119,
     "posZ": 39,
     "weight": 15,
-    "name": "アルケイオン保管院",
+    "name": "the Archeion",
     "nameJp": "アルケイオン保管院"
   },
   {
@@ -2120,7 +2108,7 @@
     "posY": 205,
     "posZ": 19,
     "weight": 15,
-    "name": "リトルシャーレアン",
+    "name": "Sharlayan Hamlet",
     "nameJp": "リトルシャーレアン"
   },
   {
@@ -2132,7 +2120,7 @@
     "posY": 275,
     "posZ": 19,
     "weight": 15,
-    "name": "アポリア本部",
+    "name": "Aporia",
     "nameJp": "アポリア本部"
   },
   {
@@ -2240,7 +2228,7 @@
     "posY": 340,
     "posZ": 0,
     "weight": 15,
-    "name": "イェドリマン",
+    "name": "Yedlihmad",
     "nameJp": "イェドリマン"
   },
   {
@@ -2252,7 +2240,7 @@
     "posY": 222,
     "posZ": 0,
     "weight": 15,
-    "name": "デミールの遺烈郷",
+    "name": "the Great Work",
     "nameJp": "デミールの遺烈郷"
   },
   {
@@ -2264,7 +2252,7 @@
     "posY": 165,
     "posZ": 0,
     "weight": 15,
-    "name": "パーラカの里",
+    "name": "Palaka's Stand",
     "nameJp": "パーラカの里"
   },
   {
@@ -2372,7 +2360,7 @@
     "posY": 310,
     "posZ": 4,
     "weight": 15,
-    "name": "キャンプ・ブロークングラス",
+    "name": "Camp Broken Glass",
     "nameJp": "キャンプ・ブロークングラス"
   },
   {
@@ -2384,7 +2372,7 @@
     "posY": 179,
     "posZ": -2,
     "weight": 20,
-    "name": "テルティウム駅",
+    "name": "Tertium",
     "nameJp": "テルティウム駅"
   },
   {
@@ -2492,7 +2480,7 @@
     "posY": 344,
     "posZ": 13,
     "weight": 15,
-    "name": "涙の入江",
+    "name": "Sinus Lacrimarum",
     "nameJp": "涙の入江"
   },
   {
@@ -2504,7 +2492,7 @@
     "posY": 112,
     "posZ": -14,
     "weight": 20,
-    "name": "ベストウェイ・バロー",
+    "name": "Bestways Burrow",
     "nameJp": "ベストウェイ・バロー"
   },
   {
@@ -2612,7 +2600,7 @@
     "posY": 268,
     "posZ": 2,
     "weight": 15,
-    "name": "リア・ターラ",
+    "name": "Reah Tahra",
     "nameJp": "リア・ターラ"
   },
   {
@@ -2624,7 +2612,7 @@
     "posY": 83,
     "posZ": 22,
     "weight": 15,
-    "name": "イーアの里",
+    "name": "Abode of the Ea",
     "nameJp": "イーアの里"
   },
   {
@@ -2636,7 +2624,7 @@
     "posY": 281,
     "posZ": 39,
     "weight": 15,
-    "name": "オミクロンベース",
+    "name": "Base Omicron",
     "nameJp": "オミクロンベース"
   },
   {
@@ -2744,7 +2732,7 @@
     "posY": 240,
     "posZ": 17,
     "weight": 15,
-    "name": "アナグノリシス天測園",
+    "name": "Anagnorisis",
     "nameJp": "アナグノリシス天測園"
   },
   {
@@ -2756,7 +2744,7 @@
     "posY": 323,
     "posZ": 13,
     "weight": 15,
-    "name": "十二節の園",
+    "name": "the Twelve Wonders",
     "nameJp": "十二節の園"
   },
   {
@@ -2768,7 +2756,7 @@
     "posY": 170,
     "posZ": 32,
     "weight": 15,
-    "name": "ポイエテーン・オイコス",
+    "name": "Poieten Oikos",
     "nameJp": "ポイエテーン・オイコス"
   },
   {
